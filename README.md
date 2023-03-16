@@ -1,16 +1,45 @@
-### Hi there 👋
+```
+╔═════╦╦═════════╗ 
+║╔╦╦╦═╣╠═╦═╦══╦═╗║ 
+║║║║║╩╣║╠╣║║║║║╩╣║ 
+║╚══╩═╩╩═╩═╩╩╩╩═╝║ 
+╚════════════════╝ 
+```
+Hiya, I'm Missteacism, or Misty for short
 
-<!--
-**missteacism/missteacism** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✦ Things I like (not comprehensive) ✦
+- Dead by Daylight
+- Horror games and movies in general
+- Creepy PS1/N64/etc retro games
+- Yume Nikki
+- A Hat in Time
+- OneShot
+- Undertale
+- RPG Maker games in general
+- Pokémon
+- The Walten Files
+- Nier
+- Team Fortress 2
+- Destiny 2
+- Warframe
+- Subnautica
+- Thief: The Dark Project
+- Hazbin/Helluva Boss
+```
+                           
+              ░░          
+  ░           ▒▒          
+  ▒▒          ▓▓          
+▓▓██▒▒        ██          
+  ░▒          ▒▒          
+   ░        ░░██░░        
+          ░░▒█▒▒██░░      
+      ▒▒████░▒  ▒░████▓▓░░
+            ▓▓▒▒█▒        
+        ░   ░░██░░        
+      ░▒      ▓▓          
+  ░▒▒▓▓▓▒▒    ██          
+      ▒░      ▓▓          
+      ░       ░░          
+                                                                          
+```
